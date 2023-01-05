@@ -107,7 +107,7 @@ class _MyWidgetState extends State<MyWidget> {
                               ? Icon(Icons.favorite_outlined)
                               : Icon(Icons.favorite_sharp),
                         ),
-                      )
+                      ),
                     ],
                   ),
                   decoration: BoxDecoration(
